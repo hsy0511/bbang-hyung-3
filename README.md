@@ -292,6 +292,8 @@ mean_absolute_error(y_val, y_pred)
 
 분류에서는 선이 svm(support vector muchine)으로 svm 기준으로 분류가 되는 것 이지만
 
+![image](https://github.com/hsy0511/bbang-hyung/assets/104752580/5504e1e9-b970-4864-be14-16812bdd2e12)
+
 선형회귀는 선이 정답값, 예측값이 된다.
 ### Ridge Regression 맛보기
 학습이 과대적합 되는 것을 방지하기위해 패널티를 부여한다. (L2 Regularazation)
